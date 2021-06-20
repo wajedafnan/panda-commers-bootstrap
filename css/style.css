@@ -1,0 +1,79 @@
+.bag-color {
+    background: #ffe7e7;
+    margin-top: 40px;
+    border-radius: 5px;
+}
+.carousel-item{
+    padding: 20px 40px;;
+}
+.container {
+    margin-bottom: 30px;
+}
+.bg-color1 {
+    background: rgb(100, 194, 57);
+}
+.bg-color2 {
+    background: rgb(138, 158, 48);
+}
+.bg-color3 {
+    background: rgb(57, 185, 194);
+    
+}
+.cat1, .cat2, .cat3 {
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.cat1 {
+    background:rgb(57, 185, 194);
+}
+.cat2 {
+    background:rgb(100, 194, 57);
+}
+.cat3 {
+    background:rgb(138, 158, 48);
+}
+.box-shadow {
+    box-shadow: 5px 6px 21px -1px rgba(0,0,0,0.4);
+    -webkit-box-shadow: 5px 6px 21px -1px rgba(0,0,0,0.4);
+    -moz-box-shadow: 5px 6px 21px -1px rgba(0,0,0,0.4);
+}
+.card-footer .shose-btn {
+    padding: 5px 20px;
+    border: none;
+    background:rgb(100, 194, 57);
+    color: #fff;
+    border-radius: 3px;
+    transition: .3s;
+}
+.card-footer .shose-btn:hover{
+    background:rgb(138, 158, 48);
+    color: #fff;
+}
+.footer-description {
+    padding: 50px 0;
+}
+.footer-description h2 {
+    font-size: 30px
+}
+.footer-description p {
+    color: rgb(56, 47, 47);
+}
+.footer-description input {
+    border: none;
+    padding: 3px 8px;
+    display: bolck;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 5px;
+    border-radius: 3px;
+}
+.shose-btn {
+    background:salmon;
+    border: none;
+    border-radius: 3px;
+    transition: .3s;
+}
+.shose-btn:hover {
+    background-color: rgb(56, 192, 124);
+    color: rgb(2, 2, 2);
+}
